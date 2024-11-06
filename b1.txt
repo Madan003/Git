@@ -4,4 +4,6 @@ I created new repository
 stashing 2nd time...
 
 stashing 3rd time...
-..
+
+
+custom message..
